@@ -22,7 +22,11 @@ h3{
     font-size: 2rem;
     color: #5B37AB;
 }
+@media screen (width:480px){
 
+    width:100%;
+
+}
 ul{
     background-color: #ADD2C2;
     width: 50%;
